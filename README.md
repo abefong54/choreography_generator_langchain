@@ -1,11 +1,11 @@
-### GETTING STARTED
+# GETTING STARTED
 
-# Create virtual environment using python
+Create virtual environment using python
 
-# python -m venv .venv
+#### python -m venv .venv
 
-# pip3 install langchain openai streamlit python-dotenv
+#### pip3 install langchain openai streamlit python-dotenv
 
-### TESTING LOCALLY
+## TESTING LOCALLY
 
-# streamlit run main.py
+#### streamlit run main.py
